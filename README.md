@@ -1,2 +1,2 @@
 # TTD-Project
-.Json files to fetch data from weather api
+.Json files to fetch data 
